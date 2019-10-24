@@ -1,0 +1,94 @@
+.text-center {
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.cards {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px;
+  margin-right: 30px;
+  margin-left: 30px;
+  margin-top: 30px;
+}
+
+/*cards-plocka*/
+
+.card-plocka {
+  width: 200px;
+  border-radius: 3px;
+  box-shadow: 0 0 5px rgb(230,230,230);
+  text-align: center;
+  padding: 18px 5px;
+  border: 1px solid rgb(230,230,230);
+}
+
+.card-plocka img {
+  height: 100px;
+}
+
+ /*cards-boka*/
+
+ .card-boka {
+  width: 200px;
+  border-radius: 3px;
+  box-shadow: 0 0 5px rgb(230,230,230);
+  text-align: center;
+  padding: 18px 5px;
+  border: 1px solid rgb(230,230,230);
+ }
+
+.btn-secondary {
+  display: inline-block;
+  margin: 15px 30px;
+  background-color: #882224;
+  padding: 16px 36px;
+  border-radius: 50px;
+  color: white;
+  }
+
+
+ .card-boka img {
+  height: 100px;
+}
+
+/*cars-hitta*/
+
+.card-hitta {
+  width: 200px;
+  border-radius: 3px;
+  box-shadow: 0 0 5px rgb(230,230,230);
+  text-align: center;
+  padding: 18px 5px;
+  border: 1px solid rgb(230,230,230);
+ }
+
+
+ .card-hitta img {
+  height: 100px;
+}
+
+.btn-third {
+  display: inline-block;
+  margin: 15px 30px;
+  background-color: #882224;
+  padding: 16px 36px;
+  border-radius: 50px;
+  color: white;
+  margin-top: 36px;
+}
+
+/*cars-must*/
+
+.card-must {
+  width: 200px;
+  border-radius: 3px;
+  box-shadow: 0 0 5px rgb(230,230,230);
+  text-align: center;
+  padding: 18px 5px;
+  border: 1px solid rgb(230,230,230);
+ }
+
+ .card-must img {
+  height: 100px;
+}
